@@ -4,6 +4,7 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/src/main/webapp/01DirectiveScript/IncludeFile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/01DirectiveScript" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/02ImplicitObject/ResponseHeader.jsp" value="file://$PROJECT_DIR$/src/main/webapp/02ImplicitObject" />
       </map>
     </option>
   </component>
